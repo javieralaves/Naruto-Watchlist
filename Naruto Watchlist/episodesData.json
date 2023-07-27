@@ -1,0 +1,20 @@
+[
+    {
+        "episode": "1",
+        "title": "Homecoming",
+        "isFiller": false,
+        "watched": false
+    },
+    {
+        "episode": "2",
+        "title": "The Akatsuki Makes Its Move",
+        "isFiller": false,
+        "watched": false
+    },
+    {
+        "episode": "3",
+        "title": "The Results of Training",
+        "isFiller": false,
+        "watched": false
+    }
+]
